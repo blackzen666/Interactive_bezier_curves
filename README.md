@@ -1,28 +1,20 @@
 # Interactive_bezier_curves
-
-# Project Title
-
-unity bezier curves with a certain point of tinteraction,
-
-
+Unity bezier curves with a certain point of tinteraction,
 ## Getting Started
-
-Download project
+Download project files or se video bellow.
 
 ### Prerequisites
 
-project is made on Unity 2017 but scripts should work on lower versions
-
-Give the example
+Project is made on Unity 2017 but scripts should work on lower versions.
 
 tutorial and code explanation (spanish not funny)
 https://youtu.be/Y7LfpH0KAQ0
 
 ## Built With
-Unity
+Unity 2017
 
 ## Contributing
-fell free to use as you like in your projects.
+Fell free to use as you like in your projects.
 
 ## Authors
 
